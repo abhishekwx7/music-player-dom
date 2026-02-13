@@ -1,2 +1,2 @@
 Simple Music Player Using DOM.
-Link : https://musicplayer-dom.netlify.app/
+Link : https://music-player-dom.netlify.app/
